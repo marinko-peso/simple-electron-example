@@ -1,0 +1,31 @@
+{
+  "name": "simple-electron-example",
+  "version": "0.1.0",
+  "description": "simple practice app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinko-peso/simple-electron-example.git"
+  },
+  "keywords": [
+    "practice",
+    "electron",
+    "app"
+  ],
+  "author": "Marinko Peso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marinko-peso/simple-electron-example/issues"
+  },
+  "homepage": "https://github.com/marinko-peso/simple-electron-example#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  },
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
