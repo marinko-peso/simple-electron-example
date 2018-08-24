@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/marinko-peso/simple-electron-example#readme",
   "devDependencies": {
-    "electron": "^2.0.2"
+    "electron": "^2.0.8"
   },
   "dependencies": {
     "electron-prebuilt": "^1.4.13"
